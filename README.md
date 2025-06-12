@@ -1,11 +1,10 @@
-# LOSTdb
-a manually curated multi-omics database for lung cancer research
+# 🫁 LOSTdb
 
-This repository contains partial code and tables relating to LOSTdb.
+a manually curated multi-omics database for lung cancer research
 
 ![github](https://github.com/user-attachments/assets/cf803575-c019-4519-9936-b981b6b2cfba)
 
-
+This repository contains partial code and tables relating to LOSTdb.
 ## Scripts:
 - RNA.R: Script containing RNA-seq analysis functions
 - Proteomics.R: Script containing proteomics analysis functions
