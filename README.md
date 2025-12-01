@@ -1,8 +1,42 @@
 # 🫁 LOSTdb
+<p align="center">
+  <a href="http://lostdbcancer.com:8080">
+    <img src="https://img.shields.io/badge/LOSTdb-1.0-blue">
+  </a>
+  <a href="http://lostdbcancer.com:8080">
+    <img src="https://img.shields.io/badge/status-active-success">
+  </a>
+  <br>
+  <a href="https://zenodo.org/communities/lungcancer/records">
+    <img src="https://img.shields.io/badge/Zenodo-v1-blue">
+  </a>
+  <a href="https://groups.google.com/g/lostdb">
+    <img
+      src="https://img.shields.io/badge/Google%20Group-Discussions-green?logo=google&logoColor=white" 
+      alt="Google Group Discussions"
+    >
+  </a>
+  <br>
+  <a href="https://cn.vuejs.org/">
+    <img src="https://img.shields.io/badge/vue-3.5.13-green" alt="Vue 3.5.13">
+  </a>
+  <a href="https://vuetifyjs.com/">
+    <img src="https://img.shields.io/badge/vuetify-3.x-blue" alt="Vuetify 3.x">
+  </a>
+</p>
 
-a manually curated multi-omics database for lung cancer research
+[LOSTdb](http://lostdbcancer.com:8080/): a manually curated multi-omics database for lung cancer research
 
 ![github](https://github.com/user-attachments/assets/cf803575-c019-4519-9936-b981b6b2cfba)
+
+## Features
+
+- **Multi-Omics Data Integration**: Seamlessly explore genomic, transcriptomic(Bulk, Single-cell), proteomic, and epigenomic data
+- **Cross-Species Analysis**: Compare data from clinical samples, mouse models, and cell lines
+- **Interactive Visualizations**: Dynamic charts and tables for data exploration
+- **Subtype-Specific Analysis**: Focus on LUAD, LUSC, and SCLC subtypes
+- **Tools Analysis**: Integrated analysis, Metadata analysis, Gene-Metadata analysis, Target and drug analysis
+- **User-Friendly Interface**: Clean, modern design for easy navigation
 
 This repository contains partial code and tables relating to LOSTdb.
 ## Scripts:
