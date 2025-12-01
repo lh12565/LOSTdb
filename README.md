@@ -38,7 +38,9 @@
 - **Tools Analysis**: Integrated analysis, Metadata analysis, Gene-Metadata analysis, Target and drug analysis
 - **User-Friendly Interface**: Clean, modern design for easy navigation
 
-This repository contains partial code and tables relating to LOSTdb.
+---
+<h3>This repository contains partial code and tables relating to LOSTdb.</h3>
+
 ## Scripts:
 - RNA.R: Script containing RNA-seq analysis functions
 - Proteomics.R: Script containing proteomics analysis functions
