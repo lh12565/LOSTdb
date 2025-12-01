@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/vue-3.5.13-green" alt="Vue 3.5.13">
   </a>
   <a href="https://vuetifyjs.com/">
-    <img src="https://img.shields.io/badge/vuetify-3.x-blue" alt="Vuetify 3.x">
+    <img src="https://img.shields.io/badge/vuetify-3.6.14-blue" alt="Vuetify 3.6.14">
   </a>
 </p>
 
