@@ -58,8 +58,6 @@ LOSTdb comprises 295 multi-omics datasets, including bulk RNA-seq, genomic, prot
 
 
 <p align="center" >
-  <a href="https://clustrmaps.com/site/1c8sg" >
-     <img width="1" height="1"  src="https://www.clustrmaps.com/map_v2.png?d=cBsICJW0CMG5Xr9_HxIz_H9hsYULg5gUtg3J1g_MLYE&cl=ffffff" />
-   </a>
+  <a href="https://clustrmaps.com/site/1c8sg"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=cBsICJW0CMG5Xr9_HxIz_H9hsYULg5gUtg3J1g_MLYE&cl=ffffff" /></a>
 </p>
 
