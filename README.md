@@ -57,11 +57,6 @@ LOSTdb comprises 295 multi-omics datasets, including bulk RNA-seq, genomic, prot
 - clinical-metadata.xlsx: Manually curated clinical/meta data.
 
 
-<!-- <p align="center" >
-  <!-- <a href="https://clustrmaps.com/site/1c8sg">
-    <img width="0"  src="https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=cBsICJW0CMG5Xr9_HxIz_H9hsYULg5gUtg3J1g_MLYE" />
-  </a> -->
-  
-</p> -->
+
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=cBsICJW0CMG5Xr9_HxIz_H9hsYULg5gUtg3J1g_MLYE"></script>
 
