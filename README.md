@@ -63,3 +63,6 @@ LOSTdb comprises 295 multi-omics datasets, including bulk RNA-seq, genomic, prot
   </a>
 </p>
 
+**Citation**:  
+[LOSTdb: a manually curated multi-omics database for lung cancer research](https://link.springer.com/article/10.1186/s12859-025-06319-6)
+
