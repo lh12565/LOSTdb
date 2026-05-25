@@ -56,6 +56,11 @@ LOSTdb comprises 295 multi-omics datasets, including bulk RNA-seq, genomic, prot
 - subtypes.xlsx: Detailed information of molecular subtypes, including classical subtypes and multi-omics meta-program (MP) subtypes.
 - clinical-metadata.xlsx: Manually curated clinical/meta data.
 
+## Questions or feedback:  
+For questions, bug reports, or suggestions, please [open an issue](https://github.com/lh12565/LOSTdb/issues) or join the discussion on our [Google Group](https://groups.google.com/g/LOSTdb).
+
+## Citation 
+[LOSTdb: a manually curated multi-omics database for lung cancer research](https://link.springer.com/article/10.1186/s12859-025-06319-6)
 
 <p align="center" >
   <a href="https://clustrmaps.com/site/1c8sg">
@@ -63,6 +68,5 @@ LOSTdb comprises 295 multi-omics datasets, including bulk RNA-seq, genomic, prot
   </a>
 </p>
 
-## Citation 
-[LOSTdb: a manually curated multi-omics database for lung cancer research](https://link.springer.com/article/10.1186/s12859-025-06319-6)
+
 
