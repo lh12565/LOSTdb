@@ -1,0 +1,296 @@
+﻿Cancer type,Datasets,Omics,Origin,Year,Country,PMID,Journal,Data banks/repositories,Accession numbers/web links
+LUAD,Alvaro_2021,RNA-seq,h,2021,USA,34656143,Journal of Hematology & Oncology,GEO,GSE226069
+LUSC,Alvaro_2021,RNA-seq,h,2021,USA,34656143,Journal of Hematology & Oncology,GEO,GSE226069
+LUAD,Dolgalev_2023,RNA-seq,h,2023,USA,37938580,Nature Communications,GEO,GSE229705
+LUAD,Eisner_2023,RNA-seq,h,2023,USA,37233991,Clinical Cancer Research,GEO,GSE232569
+LUAD,Depmap_2023,RNA-seq,cells,2023,USA,,,Depmap 23Q4,https://depmap.org/portal/download/all/
+LUSC,Depmap_2023,RNA-seq,cells,2023,USA,,,Depmap 23Q4,https://depmap.org/portal/download/all/
+SCLC,Depmap_2023,RNA-seq,cells,2023,USA,,,Depmap 23Q4,https://depmap.org/portal/download/all/
+LUAD,CCLE_2019,RNA-seq,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+LUSC,CCLE_2019,RNA-seq,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+SCLC,CCLE_2019,RNA-seq,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+LUAD,Yoo_2022,RNA-seq,h,2022,USA,35332150,Nature Communications,GEO,GSE166720
+LUAD,Xu_2020,RNA-seq,h,2020,China,32649877,Cell,GEO;Article,GSE140343;supplementary
+LUAD,Chen_2020,RNA-seq,h,2020,China,32649875,Cell,Article,supplementary
+LUAD,Chen-NG_2020,RNA-seq,h,2020,Singapore,32015526,Nature Genetics,OncoSG,https://src.gisapps.org/OncoSG_public/datasets; https://bioinfo.asia/oncosg_public/
+LUAD,Gillette_2020,RNA-seq,h,2020,USA,32649874,Cell,Article,supplementary
+LUAD,TCGA_2023,RNA-seq,h,2023,USA,25079552,Nature,R tools/XENA/GDC,TCGAbiolinks;XENA;https://portal.gdc.cancer.gov/
+LUAD,Mirhadi_2022,Array,m,2022,Canada,35383171,Nature Communications,GEO,GSE166999
+LUSC,Mirhadi_2022,Array,m,2022,Canada,35383171,Nature Communications,GEO,GSE166999
+LUAD,Djureinovic_2016,RNA-seq,h,2016,Sweden,27699219,JCI Insight,GEO,GSE81089
+LUSC,Djureinovic_2016,RNA-seq,h,2016,Sweden,27699219,JCI Insight,GEO,GSE81089
+LUSC,Satpathy_2021,RNA-seq,h,2021,USA,34358469,Cell,Article,supplementary
+LUSC,Stewart_2019,RNA-seq,h,2019,USA,31395880,Nature Communications,Article,supplementary
+LUSC,Sun_2022,RNA-seq,h,2022,USA,35842613,Molecular Cancer,GEO,GSE181043
+LUSC,TCGA_2023,RNA-seq,h,2023,USA,22960745,Nature,R tools/XENA/GDC,TCGAbiolinks;XENA;https://portal.gdc.cancer.gov/
+SCLC,Liu_2024,RNA-seq,h,2024,China,38181741,Cell,Article,supplementary
+SCLC,Liu-mouse_2024,RNA-seq,m,2024,China,38181741,Cell,Article,supplementary
+SCLC,George_2015,RNA-seq,h,2015,Germany,26168399,Nature,Article,supplementary
+SCLC,Jiang_2016,RNA-seq,h,2016,China,27093186,Plos Genetics,GEO,GSE60052
+SCLC,Simpson_2020,RNA-seq,m,2020,UK,35121965,Nature Cancer,Zenodo,https://zenodo.org/records/3574846
+SCLC,Gay_2021,RNA-seq,cells,2021,USA,33482121,Cancer Cell,GEO,GSE151904
+LUAD,Seo_2012,RNA-seq,h,2012,Korea,22975805,Genome Research,GEO,GSE40419
+LUAD,Lehtio_2021,RNA-seq,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUSC,Lehtio_2021,RNA-seq,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUAD,Yu_2023,RNA-seq,cells,2023,Korea,36717865,Journal of Experimental & Clinical Cancer Research,GEO,GSE165611
+LUAD,Lin_2021,RNA-seq,h,2021,China,33452453,Oncogene,GEO,GSE136949
+LUSC,Lin_2021,RNA-seq,h,2021,China,33452453,Oncogene,GEO,GSE136949
+LUAD,Jia_2018,RNA-seq,h,2018,China,30560866,Nature Communications,GEO,GSE112996
+LUSC,Jia_2018,RNA-seq,h,2018,China,30560866,Nature Communications,GEO,GSE112996
+LUAD,Parker-batchB_2022,RNA-seq,h,2022,Australia,36404344,Genome Medicine,GEO,GSE201221
+LUSC,Parker-batchB_2022,RNA-seq,h,2022,Australia,36404344,Genome Medicine,GEO,GSE201221
+LUAD,Parker-batchH_2022,RNA-seq,h,2022,Australia,36404344,Genome Medicine,GEO,GSE201221
+LUAD,Robinson_2017,RNA-seq,h,2017,USA,28783718,Nature,Article/XENA/Met500,supplementary;XENA;https://met500.med.umich.edu/
+LUAD,Altorki_2022,RNA-seq,h,2022,USA,35385730,Cell Reports,GEO,GSE193725
+LUAD,Kumagai_2022,RNA-seq,h,2022,Japan,35090594,Cancer Cell,GEO,GSE190139
+LUSC,Kumagai_2022,RNA-seq,h,2022,Japan,35090594,Cancer Cell,GEO,GSE190139
+LUAD,Zhang_2021,RNA-seq,h,2021,USA,34493867,Nature Genetics,GEO,GSE171415
+SCLC,George_2024,RNA-seq,"h,m",2024,Germany,38480884,Nature,Article,supplementary
+LUAD,Gurule_2021,RNA-seq,h,2021,USA,34001994,Npj Precision Oncology,GEO,GSE165019
+LUAD,Gentles-bulk_2020,RNA-seq,h,2020,USA,32381040,Genome Biology,GEO,GSE111907
+LUSC,Gentles-bulk_2020,RNA-seq,h,2020,USA,32381040,Genome Biology,GEO,GSE111907
+LUAD,Gentles-malign_2020,RNA-seq,h,2020,USA,32381040,Genome Biology,GEO,GSE111907
+LUSC,Gentles-malign_2020,RNA-seq,h,2020,USA,32381040,Genome Biology,GEO,GSE111907
+LUAD,Mender_2018,RNA-seq,cells,2018,USA,30015158,Neoplasia,GEO,GSE109821
+LUAD,Kim_2013,RNA-seq,h,2013,Korea,23405175,Plos One,GEO,GSE37765
+LUAD,Huang_2022,RNA-seq,h,2022,China,36211815,Oxidative Medicine And Cellular Longevity,GEO,GSE197346
+LUAD,Sun_2014,RNA-seq,h,2014,USA,24894543,Bmc Medical Genomics,GEO,GSE87340
+LUAD,Hu_2023,RNA-seq,h,2023,China,36869384,Genome Medicine,GEO,GSE207422
+LUSC,Hu_2023,RNA-seq,h,2023,China,36869384,Genome Medicine,GEO,GSE207422
+SCLC,Mahoney_2019,RNA-seq,cells,2019,USA,30626880,Nature Communications,Article,supplementary
+LUAD,Sun_2021,RNA-seq,m,2021,USA,34996889,Nature Communications,Figshare,https://figshare.com/articles/dataset/DataFreeze_v5/14390408
+LUSC,Sun_2021,RNA-seq,m,2021,USA,34996889,Nature Communications,Figshare,https://figshare.com/articles/dataset/DataFreeze_v5/14390408
+SCLC,Sun_2021,RNA-seq,m,2021,USA,34996889,Nature Communications,Figshare,https://figshare.com/articles/dataset/DataFreeze_v5/14390408
+LUAD,Wang_2017,Array,m,2017,Canada,27750381,International Journal of Cancer,Article,supplementary
+LUSC,Wang_2017,Array,m,2017,Canada,27750381,International Journal of Cancer,Article,supplementary
+LUAD,Shi_2020,RNA-seq,"h,m,cells",2020,Canada,31694835,Clinical Cancer Research,GEO,GSE119004
+LUSC,Shi_2020,RNA-seq,"h,m,cells",2020,Canada,31694835,Clinical Cancer Research,GEO,GSE119004
+LUAD,McMillan_2018,RNA-seq,cells,2018,USA,29681454,Cell,Article,supplementary
+LUSC,McMillan_2018,RNA-seq,cells,2018,USA,29681454,Cell,Article,supplementary
+LUAD,Sugiyama_2020,RNA-seq,h,2020,Japan,32005679,Science Immunology,GEO,GSE141569
+LUAD,Sivakumar_2017,RNA-seq,h,2017,USA,28951454,Cancer Research,GEO,GSE102511
+LUAD,Lu_2020,RNA-seq,h,2020,China,32629386,Ebiomedicine,GEO,GSE120622
+LUSC,Lu_2020,RNA-seq,h,2020,China,32629386,Ebiomedicine,GEO,GSE120622
+LUSC,Zhang_2019,RNA-seq,h,2019,China,31289132,Cancer Research,GEO,GSE124625
+LUSC,Otaka_2017,RNA-seq,h,2017,Japan,28087642,Clinical Cancer Research,GEO,GSE84339
+LUAD,Thaiparambil_2022,RNA-seq,h,2022,USA,35676822,Cancer Medicine,GEO,GSE159857
+LUSC,Thaiparambil_2022,RNA-seq,h,2022,USA,35676822,Cancer Medicine,GEO,GSE159857
+SCLC,Rudin_2012,RNA-seq,h,2012,USA,22941189,Nature Genetics,EGA,EGAS00001000334
+SCLC,Rudin-cells_2012,RNA-seq,cells,2012,USA,22941189,Nature Genetics,EGA,EGAS00001000334
+SCLC,Stewart_2020,RNA-seq,m,2020,USA,33521652,Nature Cancer,GEO,GSE138418
+LUAD,Alvaro-CD_2021,RNA-seq,h,2021,USA,34155000,Cancer Discovery,Article,supplementary
+SCLC,Alvaro-CD_2021,RNA-seq,h,2021,USA,34155000,Cancer Discovery,Article,supplementary
+SCLC,Lissa_2022,RNA-seq,h,2022,USA,35440132,Nature Communications,Article,supplementary
+SCLC,Lissa-mouse_2022,RNA-seq,"h,m",2022,USA,35440132,Nature Communications,Article,supplementary
+SCLC,Peifer_2012,RNA-seq,h,2012,Germany,22941188,Nature Genetics,Article,supplementary
+LUAD,Li_2014,Array,"h,m",2014,Canada,25429762,Nature Communications,Article,supplementary
+LUSC,Li_2014,Array,"h,m",2014,Canada,25429762,Nature Communications,Article,supplementary
+LUAD,Cho_2020,RNA-seq,h,2020,Korea,32879421,Experimental And Molecular Medicine,GEO,GSE126044
+LUSC,Cho_2020,RNA-seq,h,2020,Korea,32879421,Experimental And Molecular Medicine,GEO,GSE126044
+LUAD,Lee_2021,RNA-seq,h,2021,USA,33857424,Cell,GEO,GSE166449
+LUSC,Cho_2022,RNA-seq,h,2022,Korea,34987166,Experimental And Molecular Medicine,GEO,GSE158420
+LUAD,Roper_2020,RNA-seq,h,2020,USA,32483558,Cell Reports Medicine,Article,supplementary
+LUSC,Limagne_2022,RNA-seq,h,2022,France,35051357,Cancer Cell,GEO,GSE190265
+LUAD,Hwang_2020,RNA-seq,h,2020,Korea,31959763,Scientific Reports,GEO,GSE136961
+LUSC,Hwang_2020,RNA-seq,h,2020,Korea,31959763,Scientific Reports,GEO,GSE136961
+LUAD,Wang_2019,RNA-seq,h,2019,China,31209061,Cancer Research,LungCancer,http://lungcancer.chenlulab.com
+LUSC,Wang_2019,RNA-seq,h,2019,China,31209061,Cancer Research,LungCancer,http://lungcancer.chenlulab.com
+LUAD,Haga_2023,RNA-seq,h,2023,Japan,38102134,Nature Communications,DBKERO,https://kero.hgc.jp/Early_cancer.html
+LUAD,TRACERx_2023,RNA-seq,h,2023,UK,37046093,Nature,Zenodo,https://zenodo.org/records/7603386
+LUSC,TRACERx_2023,RNA-seq,h,2023,UK,37046093,Nature,Zenodo,https://zenodo.org/records/7603386
+LUAD,Pleasance_2020,RNA-seq,h,2020,Canada,35121966,Nature Cancer,POG570,http://bcgsc.ca/downloads/POG570/
+LUAD,Zhang-NC_2019,RNA-seq,h,2019,China,30992440,Nature Communications,Figshare,https://doi.org/10.6084/m9.figshare.7306364.v1
+LUSC,Zhang-NC_2019,RNA-seq,h,2019,China,30992440,Nature Communications,Figshare,https://doi.org/10.6084/m9.figshare.7306364.v1
+LUAD,Gillette_2020,Proteomics,h,2020,USA,32649874,Cell,Article,supplementary
+LUAD,Xu_2020,Proteomics,h,2020,China,32649877,Cell,Article,supplementary
+LUAD,Lehtio_2021,Proteomics,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUSC,Lehtio_2021,Proteomics,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUAD,Lehtio-val_2021,Proteomics,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUSC,Lehtio-val_2021,Proteomics,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUAD,Lehtio-late_2021,Proteomics,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUSC,Lehtio-late_2021,Proteomics,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+SCLC,Lehtio-late_2021,Proteomics,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUAD,Chen_2020,Proteomics,h,2020,China,32649875,Cell,Article,supplementary
+LUAD,Mirhadi_2022,Proteomics,m,2022,Canada,35383171,Nature Communications,Article,supplementary
+LUSC,Mirhadi_2022,Proteomics,m,2022,Canada,35383171,Nature Communications,Article,supplementary
+LUSC,Stewart_2019,Proteomics,h,2019,USA,31395880,Nature Communications,Article,supplementary
+LUSC,Satpathy_2021,Proteomics,h,2021,USA,34358469,Cell,Article,supplementary
+SCLC,Liu_2024,Proteomics,h,2024,China,38181741,Cell,Article,supplementary
+SCLC,Liu-mouse_2024,Proteomics,m,2024,China,38181741,Cell,Article,supplementary
+LUSC,Casanova_2017,Proteomics,h,2017,Switzerland,28364001,Cancer Research,Article,supplementary
+SCLC,Mahoney_2019,Proteomics,cells,2019,USA,30626880,Nature Communications,Article,supplementary
+LUAD,CCLE_2020,Proteomics,cells,2019,USA,31978347,Cell,CCLE,https://www.cell.com/cell/fulltext/S0092-8674(19)31385-6 (https://gygi.hms.harvard.edu/publications/ccle.html)
+LUSC,CCLE_2020,Proteomics,cells,2019,USA,31978347,Cell,CCLE,https://www.cell.com/cell/fulltext/S0092-8674(19)31385-6 (https://gygi.hms.harvard.edu/publications/ccle.html)
+SCLC,CCLE_2020,Proteomics,cells,2019,USA,31978347,Cell,CCLE,https://www.cell.com/cell/fulltext/S0092-8674(19)31385-6 (https://gygi.hms.harvard.edu/publications/ccle.html)
+LUAD,Woldmar_2023,Proteomics,h,2023,Austria,36527824,Esmo Open,Article,supplementary
+LUAD,Kuras_2020,Proteomics,h,2020,Sweden,33301673,Journal of Proteome Research,Article,supplementary
+LUAD,Su_2021,Proteomics,h,2021,China,34870900,Proteomics Clinical Applications,Article,supplementary
+LUSC,Pan_2020,Proteomics,h,2020,China,32612956,Frontiers in Oncology,Article,supplementary
+LUAD,Culemann_2015,Proteomics,cells,2015,Germany,26361996,Journal of Proteomics,Article,supplementary
+LUAD,Li_2014,Proteomics,"h,m",2014,Canada,25429762,Nature Communications,Article,supplementary
+LUSC,Li_2014,Proteomics,"h,m",2014,Canada,25429762,Nature Communications,Article,supplementary
+LUAD,Balbin_2013,Proteomics,cells,2013,USA,24135919,Nature Communications,Article,supplementary
+LUAD,Kelemen_2020,Proteomics,h,2020,Sweden,32536039,Clinical And Translational Medicine,Article,supplementary
+LUAD,Chen_2019,WXS,h,2019,USA,31784532,Nature Communications,Article,supplementary
+LUAD,TCGA_2023,WXS,h,2023,USA,25079552,Nature,GDC/R tools/XENA,https://gdc.cancer.gov/about-data/publications/mc3-2017; TCGAbiolinks; XENA
+LUSC,TCGA_2023,WXS,h,2023,USA,22960745,Nature,GDC/R tools/XENA,https://gdc.cancer.gov/about-data/publications/mc3-2017; TCGAbiolinks; XENA
+LUAD,Caushi_2021,WXS,h,2021,USA,34290408,Nature,Article,supplementary
+LUAD,Xu_2020,WXS,h,2020,China,32649877,Cell,Article,supplementary
+LUSC,Stewart_2019,WXS,h,2019,USA,31395880,Nature Communications,Article,supplementary
+LUSC,Bohnenberger_2018,WXS,h,2018,Germany,30097507,Embo Molecular Medicine,Article,supplementary
+LUSC,Paik_2015,WXS,h,2015,USA,25929848,Cancer Discovery,Article,supplementary
+LUAD,Zhang_2021,WXS,h,2021,USA,34493867,Nature Genetics,Article,supplementary
+LUAD,Jia_2018,WXS,h,2018,China,30560866,Nature Communications,Article,supplementary
+LUSC,Jia_2018,WXS,h,2018,China,30560866,Nature Communications,Article,supplementary
+SCLC,George_2024,WXS,h,2024,Germany,38480884,Nature,Article,supplementary
+LUAD,Sun_2021,WXS,m,2021,USA,34996889,Nature Communications,Figshare,https://figshare.com/articles/dataset/DataFreeze_v5/14390408
+LUSC,Sun_2021,WXS,m,2021,USA,34996889,Nature Communications,Figshare,https://figshare.com/articles/dataset/DataFreeze_v5/14390408
+SCLC,Sun_2021,WXS,m,2021,USA,34996889,Nature Communications,Figshare,https://figshare.com/articles/dataset/DataFreeze_v5/14390408
+LUAD,Wang_2017,WXS,m,2017,Canada,27750381,International Journal of Cancer,Article,supplementary
+LUSC,Wang_2017,WXS,m,2017,Canada,27750381,International Journal of Cancer,Article,supplementary
+LUAD,Shi_2020,WXS,"h,m,cells",2020,Canada,31694835,Clinical Cancer Research,GEO,GSE119004
+LUSC,Shi_2020,WXS,"h,m,cells",2020,Canada,31694835,Clinical Cancer Research,GEO,GSE119004
+LUAD,McMillan_2018,WXS,cells,2018,USA,29681454,Cell,Article,supplementary
+LUSC,McMillan_2018,WXS,cells,2018,USA,29681454,Cell,Article,supplementary
+SCLC,Rudin_2012,WXS,h,2012,USA,22941189,Nature Genetics,Article,supplementary
+SCLC,Rudin-cells_2012,WXS,cells,2012,USA,22941189,Nature Genetics,Article,supplementary
+LUAD,Alvaro-CD_2021,WXS,h,2021,USA,34155000,Cancer Discovery,Article,supplementary
+SCLC,Alvaro-CD_2021,WXS,h,2021,USA,34155000,Cancer Discovery,Article,supplementary
+SCLC,Lissa_2022,WXS,h,2022,USA,35440132,Nature Communications,Article,supplementary
+SCLC,Caeser_2022,WXS,m,2022,USA,35440124,Nature Communications,Article,supplementary
+LUAD,Chen_2021,WXS,h,2021,China,34473939,American Journal of Respiratory And Critical Care Medicine,Article,supplementary
+LUAD,Mirhadi_2022,WXS,m,2022,Canada,35383171,Nature Communications,Article,supplementary
+LUSC,Mirhadi_2022,WXS,m,2022,Canada,35383171,Nature Communications,Article,supplementary
+SCLC,Umemura_2014,WXS,h,2014,Japan,25122428,Journal of Thoracic Oncology,Article,supplementary
+SCLC,Jin_2022,WXS,h,2022,China,34921019,Clinical Cancer Research,Article,supplementary
+SCLC,Peifer_2012,WXS,h,2012,Germany,22941188,Nature Genetics,Article,supplementary
+LUAD,Lehtio_2021,WXS,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUSC,Lehtio_2021,WXS,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+SCLC,Augert_2017,WXS,"h,cells",2017,USA,28007623,Journal of Thoracic Oncology,Article,supplementary
+LUAD,Lengel-TS_2023,WXS,h,2023,USA,37084736,Cancer Cell,Article,supplementary
+LUAD,Lengel-WES_2023,WXS,h,2023,USA,37084736,Cancer Cell,Article,supplementary
+LUAD,Prado_2023,WXS,h,2023,Switzerland,36652909,Cell Reports Medicine,Article,supplementary
+SCLC,Jiang_2016,WXS,h,2016,China,27093186,Plos Genetics,Article,supplementary
+LUAD,Sivakumar_2017,WXS,h,2017,USA,28951454,Cancer Research,Article,supplementary
+LUAD,Robinson_2017,WXS,h,2017,USA,28783718,Nature,Article/XENA/Met500,supplementary;XENA;https://met500.med.umich.edu/
+LUAD,Wang_2020,WXS,h,2020,China,33247113,Nature Communications,Article,supplementary
+LUAD,TRACERx_2023,WXS,h,2023,UK,37046093,Nature,Zenodo,https://zenodo.org/records/7603386
+LUSC,TRACERx_2023,WXS,h,2023,UK,37046093,Nature,Zenodo,https://zenodo.org/records/7603386
+LUAD,Altorki_2022,WXS,h,2022,USA,35385730,Cell Reports,Article,supplementary
+LUAD,Hu_2020,WXS,h,2020,USA,32424352,Nature Genetics,Article,supplementary
+LUSC,Hu_2020,WXS,h,2020,USA,32424352,Nature Genetics,Article,supplementary
+SCLC,Priestley_2019,WXS,h,2019,The Netherlands,31645765,Nature,Article,supplementary
+LUAD,Pleasance_2020,WXS,h,2020,Canada,35121966,Nature Cancer,POG570,http://bcgsc.ca/downloads/POG570/
+SCLC,Zhou_2021,WXS,h,2021,China,34521849,Nature Communications,Article,supplementary
+LUAD,Nahar_2018,WXS,h,2018,Singapore,29335443,Nature Communications,Article,supplementary
+LUAD,CCLE_2019,WXS,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+LUSC,CCLE_2019,WXS,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+SCLC,CCLE_2019,WXS,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+LUAD,Depmap_2023,WXS,cells,2023,USA,,,Depmap 23Q4,https://depmap.org/portal/download/all/
+LUSC,Depmap_2023,WXS,cells,2023,USA,,,Depmap 23Q4,https://depmap.org/portal/download/all/
+SCLC,Depmap_2023,WXS,cells,2023,USA,,,Depmap 23Q4,https://depmap.org/portal/download/all/
+LUAD,Alvaro_2021,WXS,h,2021,USA,34656143,Journal of Hematology & Oncology,Article,Fig2B
+LUSC,Alvaro_2021,WXS,h,2021,USA,34656143,Journal of Hematology & Oncology,Article,Fig2B
+LUSC,Teixeira_2019,WXS,h,2019,UK,30664780,Nature Medicine,Article,supplementary
+LUAD,Imielinski_2012,WXS,h,2012,USA,22980975,Cell,Article/cBioPortal,supplementary;cBioPortal
+LUAD,Gillette_2020,WXS,h,2020,USA,32649874,Cell,Article,supplementary
+LUAD,Vanguri_2022,WXS,h,2022,USA,36038778,Nature Cancer,Article,supplementary
+LUSC,Vanguri_2022,WXS,h,2022,USA,36038778,Nature Cancer,Article,supplementary
+LUAD,MSK_2021,WXS,h,2021,USA,,,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Caso_2020,WXS,h,2020,USA,32791233,Journal of Thoracic Oncology,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Caso_2021,WXS,h,2021,USA,34290393,Npj Precision Oncology,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Rizvi_2015,WXS,h,2015,USA,25765070,Science,Article/cBioPortal,supplementary; https://www.cbioportal.org/datasets
+LUAD,Chen_2020,WXS,h,2020,China,32649875,Cell,Article,supplementary
+LUAD,Chen-NG_2020,WXS,h,2020,Singapore,32015526,Nature Genetics,cBioPortal/OncoSG,https://www.cbioportal.org/datasets; https://src.gisapps.org/OncoSG_public/datasets
+LUAD,Ding_2008,WXS,h,2008,USA,18948947,Nature,cBioPortal/Article,https://www.cbioportal.org/datasets
+LUSC,Satpathy_2021,WXS,h,2021,USA,34358469,Cell,cBioPortal/Article,https://www.cbioportal.org/datasets; supplementary
+LUAD,Um_2016,WXS,h,2016,Korea,27634761,Cancer Research,cBioPortal/Article,"https://www.cbioportal.org/datasets; table1,2"
+LUSC,Um_2016,WXS,h,2016,Korea,27634761,Cancer Research,cBioPortal/Article,"https://www.cbioportal.org/datasets; table1,2"
+LUAD,Jee_2022,WXS,h,2022,USA,36357680,Nature Medicine,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Jee_2022,WXS,h,2022,USA,36357680,Nature Medicine,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Hellmann_2018,WXS,h,2018,USA,29657128,Cancer Cell,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Rizvi_2018,WXS,h,2018,USA,29337640,Journal of Clinical Oncology,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Rizvi_2018,WXS,h,2018,USA,29337640,Journal of Clinical Oncology,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Abbosh_2017,WXS,h,2017,UK,28445469,Nature,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Abbosh_2017,WXS,h,2017,UK,28445469,Nature,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Skakodub_2023,WXS,h,2023,USA,37591896,Nature Communications,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Skakodub_2023,WXS,h,2023,USA,37591896,Nature Communications,cBioPortal,https://www.cbioportal.org/datasets
+SCLC,George_2015,WXS,h,2015,Germany,26168399,Nature,Article,supplementary
+SCLC,Gardner_2017,WXS,m,2017,USA,28196596,Cancer Cell,cBioPortal,https://www.cbioportal.org/datasets
+SCLC,Liu_2024,WXS,h,2024,China,38181741,Cell,Article,supplementary
+LUAD,Zehir_2017,WXS,h,2017,USA,28481359,Nature Medicine,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Zehir_2017,WXS,h,2017,USA,28481359,Nature Medicine,cBioPortal,https://www.cbioportal.org/datasets
+SCLC,Zehir_2017,WXS,h,2017,USA,28481359,Nature Medicine,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Nguyen_2022,WXS,h,2022,USA,35120664,Cell,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Nguyen_2022,WXS,h,2022,USA,35120664,Cell,cBioPortal,https://www.cbioportal.org/datasets
+SCLC,Nguyen_2022,WXS,h,2022,USA,35120664,Cell,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Wu_2022,WXS,h,2022,China,35871175,Nature Communications,cBioPortal,https://www.cbioportal.org/datasets
+LUSC,Wu_2022,WXS,h,2022,China,35871175,Nature Communications,cBioPortal,https://www.cbioportal.org/datasets
+SCLC,Wu_2022,WXS,h,2022,China,35871175,Nature Communications,cBioPortal,https://www.cbioportal.org/datasets
+LUAD,Roper_2020,WXS,h,2020,USA,32483558,Cell Reports Medicine,Article,supplementary
+LUAD,Zhang-NC_2019,WXS,h,2019,China,30992440,Nature Communications,Article,supplementary
+LUSC,Zhang-NC_2019,WXS,h,2019,China,30992440,Nature Communications,Article,supplementary
+LUAD,Dolgalev_2023,WXS,h,2023,USA,37938580,Nature Communications,Article,supplementary
+LUAD,Deng_2024,WXS,h,2024,China,38554705,Cell Reports Medicine,Article,supplementary
+LUAD,TCGA_2023,Methylome,h,2023,USA,25079552,Nature,R tools/XENA,TCGAbiolinks;XENA
+LUSC,TCGA_2023,Methylome,h,2023,USA,22960745,Nature,R tools/XENA,TCGAbiolinks;XENA
+LUAD,Gillette_2020,Methylome,h,2020,USA,32649874,Cell,Article,supplementary
+LUSC,Satpathy_2021,Methylome,h,2021,USA,34358469,Cell,Article,supplementary
+LUAD,Alvaro_2021,Methylome,h,2021,USA,34656143,Journal of Hematology & Oncology,GEO,GSE226069
+LUSC,Alvaro_2021,Methylome,h,2021,USA,34656143,Journal of Hematology & Oncology,GEO,GSE226069
+LUAD,Zhang-train_2023,Methylome,h,2023,China,37709764,Nature Communications,GEO,GSE230193
+LUSC,Zhang-train_2023,Methylome,h,2023,China,37709764,Nature Communications,GEO,GSE230193
+LUAD,Zhang-valid_2023,Methylome,h,2023,China,37709764,Nature Communications,GEO,GSE230193
+LUAD,Hu_2021,Methylome,h,2021,USA,33514726,Nature Communications,Article,supplementary
+SCLC,CCLE_2019,Methylome,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+LUAD,CCLE_2019,Methylome,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+LUSC,CCLE_2019,Methylome,cells,2019,USA,31068700,Nature,Depmap CCLE 2019,https://depmap.org/portal/download/all/
+SCLC,Krushkal_2020,Methylome,cells,2020,USA,32586373,Clinical Epigenetics,GEO,GSE145156
+SCLC,Heeke_2024,Methylome,cells,2024,USA,38278149,Cancer Cell,GEO,GSE241673
+LUAD,Walter_2012,Methylome,cells,2012,USA,22261801,Clinical Cancer Research,GEO,GSE36216
+SCLC,Mohammad_2015,Methylome,"h,m,cells",2015,USA,26175415,Cancer Cell,GEO,GSE66295
+LUAD,Lehtio_2021,Methylome,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUSC,Lehtio_2021,Methylome,h,2021,Sweden,34870237,Nature Cancer,Article,supplementary
+LUAD,Sandoval_2013,Methylome,h,2013,Spain,24081945,Journal of Clinical Oncology,GEO,GSE39279
+LUSC,Sandoval_2013,Methylome,h,2013,Spain,24081945,Journal of Clinical Oncology,GEO,GSE39279
+LUAD,Wang_2017,Methylome,m,2017,Canada,27750381,International Journal of Cancer,Article,supplementary
+LUSC,Wang_2017,Methylome,m,2017,Canada,27750381,International Journal of Cancer,Article,supplementary
+LUAD,Haga_2023,Methylome,h,2023,Japan,38102134,Nature Communications,DBKERO,https://kero.hgc.jp/Early_cancer.html
+LUAD,Pocha_2020,Methylome,h,2020,Germany,31953311,Clinical Cancer Research,ArrayExpress,E-MTAB-8660
+LUSC,Teixeira_2019,Methylome,h,2019,UK,30664780,Nature Medicine,GEO,GSE108124
+LUAD,Cho_2020,Methylome,h,2020,Korea,32879421,Experimental And Molecular Medicine,GEO,GSE126044
+LUSC,Cho_2020,Methylome,h,2020,Korea,32879421,Experimental And Molecular Medicine,GEO,GSE126044
+LUSC,Cho_2022,Methylome,h,2022,Korea,34987166,Experimental And Molecular Medicine,GEO,GSE158422
+LUAD,Dolgalev_2023,scRNA-seq,h,2023,USA,37938580,Nature Communications,Figshare,https://doi.org/10.6084/m9.figshare.21331284
+LUAD,Kim_2020,scRNA-seq,h,2020,Korea,32385277,Nature Communications,GEO,GSE131907
+LUAD,Qian_2020,scRNA-seq,h,2020,Belgium,32561858,Cell Research,3CA,https://www.weizmann.ac.il/sites/3CA/lung
+LUSC,Qian_2020,scRNA-seq,h,2020,Belgium,32561858,Cell Research,3CA,https://www.weizmann.ac.il/sites/3CA/lung
+LUAD,Maynard_2020,scRNA-seq,h,2020,USA,32822576,Cell,3CA,https://www.weizmann.ac.il/sites/3CA/lung
+LUSC,Maynard_2020,scRNA-seq,h,2020,USA,32822576,Cell,3CA,https://www.weizmann.ac.il/sites/3CA/lung
+LUAD,Lambrechts_2018,scRNA-seq,h,2018,Belgium,29988129,Nature Medicine,scRNAseq-NSCLC,https://gbiomed.kuleuven.be/scRNAseq-NSCLC
+LUSC,Lambrechts_2018,scRNA-seq,h,2018,Belgium,29988129,Nature Medicine,scRNAseq-NSCLC,https://gbiomed.kuleuven.be/scRNAseq-NSCLC
+LUAD,Kinker_2020,scRNA-seq,cells,2020,Israel,33128048,Nature Genetics,Single cell portal,https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity
+LUSC,Kinker_2020,scRNA-seq,cells,2020,Israel,33128048,Nature Genetics,Single cell portal,https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity
+SCLC,Kinker_2020,scRNA-seq,cells,2020,Israel,33128048,Nature Genetics,Single cell portal,https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity
+LUAD,Xing_2021,scRNA-seq,h,2021,China,33571124,Science Advances,3CA,https://www.weizmann.ac.il/sites/3CA/lung
+LUAD,Monteiro_2022,scRNA-seq,m,2022,Spain,35411077,Nature Medicine,GEO,GSE189024
+LUAD,Zhu_2022,scRNA-seq,h,2022,China,36434043,Experimental And Molecular Medicine,GEO,GSE189357
+LUAD,He_2022,scRNA-seq,h,2022,China,35874770,Frontiers in Immunology,GEO,GSE203360
+LUAD,Wu_2021,scRNA-seq,h,2021,China,33953163,Nature Communications,GEO,GSE148071
+LUSC,Wu_2021,scRNA-seq,h,2021,China,33953163,Nature Communications,GEO,GSE148071
+LUAD,Zhang_2022,scRNA-seq,h,2022,China,35027529,Signal Transduction And Targeted Therapy,LungCancer,https://lungcancer.chenlulab.com/
+LUSC,Zhang_2022,scRNA-seq,h,2022,China,35027529,Signal Transduction And Targeted Therapy,LungCancer,https://lungcancer.chenlulab.com/
+LUAD,Li_2022,scRNA-seq,h,2022,China,35962452,Genome Medicine,GEO,GSE119911
+LUSC,Li_2022,scRNA-seq,h,2022,China,35962452,Genome Medicine,GEO,GSE119911
+LUAD,Laughney_2020,scRNA-seq,h,2020,USA,32042191,Nature Medicine,GEO,GSE123902
+LUAD,Deng_2024,scRNA-seq,h,2024,China,38554705,Cell Reports Medicine,Figshare,https://figshare.com/articles/dataset/Multicellular_ecotypes_shape_progression_of_lung_adenocarcinoma_from_ground-glass_opacity_towards_advanced_stages/25287325?file=44695465
+LUAD,Hu_2023,scRNA-seq,h,2023,China,36869384,Genome Medicine,GEO,GSE207422
+LUSC,Hu_2023,scRNA-seq,h,2023,China,36869384,Genome Medicine,GEO,GSE207422
+LUAD,Song_2019,scRNA-seq,h,2019,USA,31033233,Cancer Medicine,GEO,GSE117570
+LUSC,Song_2019,scRNA-seq,h,2019,USA,31033233,Cancer Medicine,GEO,GSE117570
+LUAD,Zhuang_2022,scRNA-seq,h,2022,China,,,GEO,GSE150938
+LUAD,Bischoff_2021,scRNA-seq,h,2021,Germany,34663877,Oncogene,code ocean,https://doi.org/10.24433/CO.0121060.v1
+SCLC,Tian_2022,scRNA-seq,h,2022,China,36195615,Signal Transduction And Targeted Therapy,OMIX,OMIX002441
+SCLC,Ireland_2020,scRNA-seq,h,2020,USA,32473656,Cancer Cell,GEO,GSE150766
+SCLC,Stewart_2020,scRNA-seq,m,2020,USA,33521652,Nature Cancer,GEO,GSE138267
+SCLC,Chan_2021,scRNA-seq,h,2021,USA,34653364,Cancer Cell,CELLxGENE,https://datasets.cellxgene.cziscience.com/44d1c1aa-7c79-4cca-9edf-f4e97edc047a.rds
