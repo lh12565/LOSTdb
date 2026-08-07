@@ -62,11 +62,11 @@ For questions, bug reports, or suggestions, please [open an issue](https://githu
 ## Citation 
 [LOSTdb: a manually curated multi-omics database for lung cancer research](https://link.springer.com/article/10.1186/s12859-025-06319-6)
 
-<p align="center" >
+<!-- <p align="center" >
   <a href="https://clustrmaps.com/site/1c8sg">
     <img width="0"  src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=cBsICJW0CMG5Xr9_HxIz_H9hsYULg5gUtg3J1g_MLYE" />
   </a>
-</p>
+</p> -->
 <p align="center">
      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flh12565%2FLOSTdb&labelColor=%232ccce4&countColor=%2337d67a" />
 </p>
