@@ -54,7 +54,7 @@ LOSTdb comprises 295 multi-omics datasets, including bulk RNA-seq, genomic, prot
 ## 📝Tables:
 - Dataset catalog of LOSTdb.csv: Dataset information in LOSTdb.
 - subtypes.xlsx: Detailed information of molecular subtypes, including classical subtypes and multi-omics meta-program (MP) subtypes.
-- clinical-metadata.xlsx: Manually curated clinical/meta data.
+- Metadata in LOSTdb.csv: Manually curated clinical/meta data.
 
 ## Questions or feedback:  
 For questions, bug reports, or suggestions, please [open an issue](https://github.com/lh12565/LOSTdb/issues) or join the discussion on our [Google Group](https://groups.google.com/g/LOSTdb).
